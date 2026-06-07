@@ -1,0 +1,38 @@
+name: Update Free Models in README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:          # Allows manual trigger from GitHub UI
+
+jobs:
+  update-models:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # Needed to push changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Fetch models and update file
+        run: python update_models.py
+
+      - name: Commit and push if file changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cheat-sheet-free-claude-code.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit. Models list is already up to date."
+          else
+            git commit -m "chore: update free models list [skip ci]"
+            git push
+          fi
