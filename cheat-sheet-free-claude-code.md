@@ -18,15 +18,13 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-06-30 18:11 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-07-01 00:06 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
 | `deepseek-v4-flash-free` | FREE |
 | `mimo-v2.5-free` | FREE |
-| `qwen3.6-plus-free` | FREE |
-| `minimax-m3-free` | FREE |
 | `nemotron-3-ultra-free` | FREE |
 | `north-mini-code-free` | FREE |
 <!-- FREE_MODELS_END -->
@@ -215,15 +213,13 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-06-30 18:11 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-07-01 00:06 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
 | `deepseek-v4-flash-free` | FREE |
 | `mimo-v2.5-free` | FREE |
-| `qwen3.6-plus-free` | FREE |
-| `minimax-m3-free` | FREE |
 | `nemotron-3-ultra-free` | FREE |
 | `north-mini-code-free` | FREE |
 <!-- FREE_MODELS_END -->
