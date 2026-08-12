@@ -18,7 +18,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-08-12 06:54 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-08-12 12:46 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
@@ -26,13 +26,10 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `deepseek-v4-flash-free` | FREE |
 | `mimo-v2.5-free` | FREE |
 | `hy3-free` | FREE |
-| `ling-3.0-flash-free` | FREE |
 | `ling-3.0-tiny-free` | FREE |
 | `nemotron-3-ultra-free` | FREE |
 | `nemotron-3.5-lightning-free` | FREE |
-| `north-mini-code-free` | FREE |
 | `laguna-s-2.1-free` | FREE |
-| `longcat-2.0-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
@@ -219,7 +216,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-08-12 06:54 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-08-12 12:46 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
@@ -227,13 +224,10 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `deepseek-v4-flash-free` | FREE |
 | `mimo-v2.5-free` | FREE |
 | `hy3-free` | FREE |
-| `ling-3.0-flash-free` | FREE |
 | `ling-3.0-tiny-free` | FREE |
 | `nemotron-3-ultra-free` | FREE |
 | `nemotron-3.5-lightning-free` | FREE |
-| `north-mini-code-free` | FREE |
 | `laguna-s-2.1-free` | FREE |
-| `longcat-2.0-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
