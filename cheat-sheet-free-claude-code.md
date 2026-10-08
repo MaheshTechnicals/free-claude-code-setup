@@ -18,7 +18,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-08 04:03 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-08 09:36 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
@@ -221,7 +221,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-08 04:03 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-08 09:36 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
