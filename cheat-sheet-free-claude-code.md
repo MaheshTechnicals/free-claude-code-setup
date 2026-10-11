@@ -18,23 +18,20 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-11 23:01 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-12 02:52 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
-| `jev-1.13-free` | FREE |
-| `exo-free` | FREE |
-| `muse-spark-1.3-contributor-free` | FREE |
-| `muse-spark-1.2-contributor-free` | FREE |
-| `mimo-v2.6-flash-free` | FREE |
-| `space-bunny-free` | FREE |
-| `longcat-2.5-preview-free` | FREE |
-| `step-5-preview-free` | FREE |
-| `ling-3.0-flash-fin-free` | FREE |
-| `nemotron-3-ultra-free` | FREE |
-| `nemotron-3.5-lightning-free` | FREE |
 | `ling-3.1-flash-free` | FREE |
+| `mimo-v2.6-flash-free` | FREE |
+| `muse-spark-1.2-contributor-free` | FREE |
+| `muse-spark-1.3-contributor-free` | FREE |
+| `nemotron-3.5-lightning-free` | FREE |
+| `jev-1.13-free` | FREE |
+| `step-5-preview-free` | FREE |
+| `longcat-2.5-preview-free` | FREE |
+| `space-bunny-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
@@ -221,23 +218,20 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-11 23:01 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-12 02:52 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
-| `jev-1.13-free` | FREE |
-| `exo-free` | FREE |
-| `muse-spark-1.3-contributor-free` | FREE |
-| `muse-spark-1.2-contributor-free` | FREE |
-| `mimo-v2.6-flash-free` | FREE |
-| `space-bunny-free` | FREE |
-| `longcat-2.5-preview-free` | FREE |
-| `step-5-preview-free` | FREE |
-| `ling-3.0-flash-fin-free` | FREE |
-| `nemotron-3-ultra-free` | FREE |
-| `nemotron-3.5-lightning-free` | FREE |
 | `ling-3.1-flash-free` | FREE |
+| `mimo-v2.6-flash-free` | FREE |
+| `muse-spark-1.2-contributor-free` | FREE |
+| `muse-spark-1.3-contributor-free` | FREE |
+| `nemotron-3.5-lightning-free` | FREE |
+| `jev-1.13-free` | FREE |
+| `step-5-preview-free` | FREE |
+| `longcat-2.5-preview-free` | FREE |
+| `space-bunny-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
