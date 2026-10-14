@@ -18,12 +18,11 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-14 16:31 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-14 21:51 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
-| `ling-3.1-flash-free` | FREE |
 | `cat-jam-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
 | `muse-spark-1.2-contributor-free` | FREE |
@@ -219,12 +218,11 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-14 16:31 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-14 21:51 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
-| `ling-3.1-flash-free` | FREE |
 | `cat-jam-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
 | `muse-spark-1.2-contributor-free` | FREE |
