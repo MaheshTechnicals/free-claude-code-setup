@@ -18,12 +18,13 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-16 08:18 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-16 16:01 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
 | `cat-jam-free` | FREE |
+| `ll-alpha-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
 | `muse-spark-1.2-contributor-free` | FREE |
 | `muse-spark-1.3-contributor-free` | FREE |
@@ -32,6 +33,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `jev-1.13-free` | FREE |
 | `longcat-2.5-preview-free` | FREE |
 | `deepseek-v4.1-flash-free` | FREE |
+| `glm-5.3-flash-free` | FREE |
 | `space-bunny-free` | FREE |
 <!-- FREE_MODELS_END -->
 
@@ -219,12 +221,13 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-16 08:18 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-16 16:01 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
 | `cat-jam-free` | FREE |
+| `ll-alpha-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
 | `muse-spark-1.2-contributor-free` | FREE |
 | `muse-spark-1.3-contributor-free` | FREE |
@@ -233,6 +236,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `jev-1.13-free` | FREE |
 | `longcat-2.5-preview-free` | FREE |
 | `deepseek-v4.1-flash-free` | FREE |
+| `glm-5.3-flash-free` | FREE |
 | `space-bunny-free` | FREE |
 <!-- FREE_MODELS_END -->
 
