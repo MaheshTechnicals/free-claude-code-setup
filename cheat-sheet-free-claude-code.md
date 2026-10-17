@@ -18,16 +18,13 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-17 01:54 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-17 08:09 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
 | `beam-free` | FREE |
-| `ll-alpha-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
-| `muse-spark-1.2-contributor-free` | FREE |
-| `muse-spark-1.3-contributor-free` | FREE |
 | `nemotron-3.5-super-vl-free` | FREE |
 | `nemotron-3.5-lightning-free` | FREE |
 | `jev-1.13-free` | FREE |
@@ -221,16 +218,13 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-17 01:54 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-17 08:09 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
 | `beam-free` | FREE |
-| `ll-alpha-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
-| `muse-spark-1.2-contributor-free` | FREE |
-| `muse-spark-1.3-contributor-free` | FREE |
 | `nemotron-3.5-super-vl-free` | FREE |
 | `nemotron-3.5-lightning-free` | FREE |
 | `jev-1.13-free` | FREE |
