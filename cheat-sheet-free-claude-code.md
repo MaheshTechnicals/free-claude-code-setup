@@ -18,7 +18,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-19 08:24 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-19 17:22 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
@@ -32,6 +32,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `deepseek-v4.1-flash-free` | FREE |
 | `glm-5.3-flash-free` | FREE |
 | `space-bunny-free` | FREE |
+| `minimax-m3.1-flash-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
@@ -218,7 +219,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-19 08:24 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-10-19 17:22 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
@@ -232,6 +233,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `deepseek-v4.1-flash-free` | FREE |
 | `glm-5.3-flash-free` | FREE |
 | `space-bunny-free` | FREE |
+| `minimax-m3.1-flash-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
