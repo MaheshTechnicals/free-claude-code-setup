@@ -18,21 +18,22 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-09 09:43 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-09 20:26 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
-| `beam-free` | FREE |
-| `flint-40b-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
-| `nemotron-3.5-super-vl-free` | FREE |
-| `nemotron-3.5-lightning-free` | FREE |
 | `deepseek-v4.1-flash-free` | FREE |
 | `glm-5.3-flash-free` | FREE |
 | `crouton-alpha-free` | FREE |
+| `longcat-2.5-free` | FREE |
 | `iceman-free` | FREE |
 | `inkling-2-small-free` | FREE |
+| `beam-free` | FREE |
+| `flint-40b-free` | FREE |
+| `nemotron-3.5-super-vl-free` | FREE |
+| `nemotron-3.5-lightning-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
@@ -219,21 +220,22 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-09 09:43 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-09 20:26 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
 |----------|--------|
-| `beam-free` | FREE |
-| `flint-40b-free` | FREE |
 | `mimo-v2.6-flash-free` | FREE |
-| `nemotron-3.5-super-vl-free` | FREE |
-| `nemotron-3.5-lightning-free` | FREE |
 | `deepseek-v4.1-flash-free` | FREE |
 | `glm-5.3-flash-free` | FREE |
 | `crouton-alpha-free` | FREE |
+| `longcat-2.5-free` | FREE |
 | `iceman-free` | FREE |
 | `inkling-2-small-free` | FREE |
+| `beam-free` | FREE |
+| `flint-40b-free` | FREE |
+| `nemotron-3.5-super-vl-free` | FREE |
+| `nemotron-3.5-lightning-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
