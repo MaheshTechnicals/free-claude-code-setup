@@ -18,7 +18,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-26 06:57 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-26 21:43 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
@@ -32,7 +32,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `jev-1.13-free` | FREE |
 | `nemotron-3.5-lightning-free` | FREE |
 | `hy4-flash-free` | FREE |
-| `tidepool-alpha-free` | FREE |
+| `seaglass-alpha-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
@@ -219,7 +219,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 
 ## Available Free Models
 
-> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-26 06:57 IST`
+> Auto-updated every 6 hours via GitHub Actions · Last updated: <!-- LAST_UPDATED --> `2026-11-26 21:43 IST`
 
 <!-- FREE_MODELS_START -->
 | Model ID | Status |
@@ -233,7 +233,7 @@ Claude Code is Anthropic's official CLI tool for interacting with Claude AI. It 
 | `jev-1.13-free` | FREE |
 | `nemotron-3.5-lightning-free` | FREE |
 | `hy4-flash-free` | FREE |
-| `tidepool-alpha-free` | FREE |
+| `seaglass-alpha-free` | FREE |
 <!-- FREE_MODELS_END -->
 
 ---
